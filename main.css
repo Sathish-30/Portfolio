@@ -456,6 +456,8 @@ nav .fa-solid {
     font-size: 14px;
   }
   .logo {
+    height: 100px;
+    width: 140px;
     margin-left: 0px;
   }
   .myself {
