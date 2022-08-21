@@ -452,11 +452,14 @@ nav .fa-solid {
     margin-bottom: 20px;
   }
   .header-text {
-    margin-top: 100%;
+    margin-top: 50px;
     font-size: 14px;
   }
   .logo {
     margin-left: 0px;
+  }
+  .myself {
+    margin-left: 70px;
   }
   .header-text p {
     font-size: 25px;
